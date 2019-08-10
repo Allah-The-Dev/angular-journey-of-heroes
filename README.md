@@ -1,1 +1,0 @@
-# angular-journey-of-heroes
